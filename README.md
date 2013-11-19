@@ -1,8 +1,9 @@
 ### Linki do stron WWW na serwerze Github
 
 Aby dopisać link do listy należy przygotować „pull request”
-w którym w tym pliku podmieniony został link do swojej strony
-www na serwerze Github.
+w którym w pliku *README.md* podmieniono wiersz
+ze swoim nazwiskiem na wiersz z linkiem do swojej strony
+WWW na serwerze Github.
 
 Jak to zrobić zostało opisane w [Using Pull Requests](https://help.github.com/articles/using-pull-requests)
 (metoda Fork & Pull) i w [Creating a pull request](https://help.github.com/articles/creating-a-pull-request).
