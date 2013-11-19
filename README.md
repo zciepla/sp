@@ -1,8 +1,11 @@
 ### Linki do stron na serwerze Github
 
-Aby dopisać link do listy należy zgłosić „pull request”.
+Aby dopisać link do listy należy przygotować „pull request”
+w którym w tym pliku podmieniony został link do swojej strony
+www na serwerze Github.
+
 Jak to zrobić zostało opisane w [Using Pull Requests](https://help.github.com/articles/using-pull-requests)
-(metoda Fork & Pull) i [Creating a pull request](https://help.github.com/articles/creating-a-pull-request).
+(metoda Fork & Pull) i w [Creating a pull request](https://help.github.com/articles/creating-a-pull-request).
 Zaczynamy od sforkowania tego repozytorium.
 
 1. [Bzyl, Włodzimierz](http://wbzyl.github.io/)
