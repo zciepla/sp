@@ -1,4 +1,4 @@
-### Linki do stron na serwerze Github
+### Linki do stron WWW na serwerze Github
 
 Aby dopisać link do listy należy przygotować „pull request”
 w którym w tym pliku podmieniony został link do swojej strony
