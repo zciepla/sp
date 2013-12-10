@@ -25,7 +25,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Cendrowski, Paweł
 1. Chlebba, Adam
 1. Ciepła, Zuzanna
-1. Ciesielski, Mateusz
+1. [Ciesielski, Mateusz](http://m-ciesielski.github.io/blog/)
 1. Cymerys, Marta
 1. Czekanowski, Bartosz
 1. Darznik, Dawid
