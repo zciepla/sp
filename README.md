@@ -113,7 +113,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Rybicki, Paweł
 1. Rzepecki, Wojciech
 1. Rzeppa, Sławomir
-1. Sadowski, Patryk
+1. [Sadowski, Patryk](http://psadowski.github.io/blog/)
 1. Sienkiewicz, Rafał
 1. Sobociński, Paweł
 1. Sochacki, Damian
