@@ -18,7 +18,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Boyke, Gracjan
 1. Breza, Mateusz
 1. Bronk, Seweryn
-1. Bruchwalska, Aleksandra
+1. [Bruchwalska, Aleksandra](http://abruchwalska.github.io/zaliczenie/)
 1. Burkiewicz, Tomasz
 1. Buszman, Dariusz
 1. Błachuciak, Amelia
