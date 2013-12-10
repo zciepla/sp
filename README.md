@@ -16,7 +16,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Biegała, Jakub
 1. Biewska, Aldona
 1. Boyke, Gracjan
-1. Breza, Mateusz
+1. [Breza, Mateusz](http://mbreza.github.io/rep1/)
 1. Bronk, Seweryn
 1. Bruchwalska, Aleksandra
 1. Burkiewicz, Tomasz
