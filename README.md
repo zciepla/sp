@@ -44,7 +44,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Frąckiewicz, Bartosz
 1. Galicki, Paweł
 1. Gazarkiewicz, Robert
-1. Gałaszewska, Martyna
+1. [Gałaszewska, Martyna](http://mgalaszewska.github.io/zaliczenie/)
 1. Gańcza, Melchior
 1. Gdaniec, Mateusz
 1. Gnes, Michał
