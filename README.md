@@ -38,7 +38,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Dąbrowski, Łukasz
 1. Fafiński, Bartosz
 1. Felczak, Dominik
-1. Filipowicz, Szymon
+1. [Filipowicz, Szymon](http://banan3k.github.io/zaliczenie/)
 1. Formela, Bartosz
 1. Franciszczak, Dawid
 1. Frąckiewicz, Bartosz
