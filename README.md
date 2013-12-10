@@ -141,7 +141,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Wilkirska, Maria
 1. Witkowska, Ewa
 1. Wittstock, Szymon
-1. Wiśniewski, Bartosz
+1. Wiśniewski, Bartosz](https://github.com/bwisniewski/zaliczenie)
 1. Wolak, Wojciech
 1. Wołejko, Alan
 1. Wygonowski, Maciej
