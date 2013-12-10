@@ -152,4 +152,4 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Świder, Karolina
 1. Świątek, Jan
 1. Żerański, Piotr
-1. Żuk, Adam
+1. [Żuk, Adam](http://a-zuk.github.io/blog/)
