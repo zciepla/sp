@@ -147,7 +147,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Wygonowski, Maciej
 1. Wysokińska, Kamila
 1. Wójcicka, Zuzanna
-1. [Wąsowski, Jakub](http://jwasowski.github.io/)
+1. [Wąsowski, Jakub](https://github.com/jwasowski/Zaliczenie)
 1. Zawistowski, Łukasz
 1. Zawodny, Szymon
 1. Zelek, Martin
