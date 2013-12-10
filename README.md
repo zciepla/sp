@@ -34,7 +34,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Drewing, Maciej
 1. Drzewicka, Maja
 1. Dybała, Małgorzata
-1. Działdowska, Kinga
+1. [Działdowska, Kinga](http://kdzialdowska.github.io/blog/)
 1. Dąbrowski, Łukasz
 1. Fafiński, Bartosz
 1. Felczak, Dominik
