@@ -62,7 +62,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Kacała, Michał
 1. Kaleta, Emilia
 1. Kamiński, Piotr
-1. [Kamola, Filip](https://github.com/fkamola/)
+1. [Kamola, Filip](http://fkamola.github.io/Blog/)
 1. Karpisz, Piotr
 1. Kassjański, Michał
 1. Kasztelan, Damian
