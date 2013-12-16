@@ -90,7 +90,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Masowa, Marcin
 1. Matyjas, Sebastian
 1. Mazurek, Paulina
-1. Mielewczyk, Łukasz
+1. [Mielewczyk, Łukasz](http://romety2.github.io/zaliczonko/)
 1. Mróz, Franciszek
 1. Nadolny, Michał
 1. Ney, Daniel
