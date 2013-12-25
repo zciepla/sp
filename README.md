@@ -136,7 +136,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Uściłowicz, Sebastian
 1. Walczak, Marta
 1. Walendzewicz, Daniel
-1. Wiczling, Karol
+1. [Wiczling, Karol](http://kwiczling.github.io/Repo1/)
 1. Wilamowski, Paweł
 1. Wilkirska, Maria
 1. Witkowska, Ewa
