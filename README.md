@@ -32,7 +32,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Daszkiewicz, Mateusz
 1. Dombrowski, Kamil
 1. Drewing, Maciej
-1. Drzewicka, Maja
+1. [Drzewicka, Maja](http://majad.github.io/blog/)
 1. Dybała, Małgorzata
 1. [Działdowska, Kinga](http://kdzialdowska.github.io/blog/)
 1. Dąbrowski, Łukasz
