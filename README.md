@@ -119,7 +119,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Sochacki, Damian
 1. Soska, Kamil
 1. Stelmach, Krzysztof
-1. Stypa, Aneta
+1. [Stypa, Aneta] (http://aneta-7.github.io/zaliczenie/)
 1. Stępień, Maciej
 1. Stępka, Mateusz
 1. Szafrański, Piotr
