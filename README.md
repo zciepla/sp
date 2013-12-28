@@ -68,7 +68,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Kasztelan, Damian
 1. Kaszubowski, Adam
 1. Kiliński, Kornel
-1. Klemarczyk, Maciej
+1. [Klemarczyk, Maciej Paweł](http://mklemarczyk.github.io/)
 1. Koliński, Artur
 1. Korol, Wiktor
 1. Kort, Michał
