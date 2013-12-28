@@ -22,7 +22,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Burkiewicz, Tomasz
 1. Buszman, Dariusz
 1. Błachuciak, Amelia
-1. Cendrowski, Paweł
+1. [Cendrowski, Paweł](http://pcendrowski.github.io/Blog-SP/)
 1. Chlebba, Adam
 1. Ciepła, Zuzanna
 1. [Ciesielski, Mateusz](http://m-ciesielski.github.io/blog/)
