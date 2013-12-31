@@ -142,7 +142,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Witkowska, Ewa
 1. Wittstock, Szymon
 1. [Wiśniewski, Bartosz](http://bwisniewski.github.io/zaliczenie/)
-1. Wolak, Wojciech
+1. [Wolak, Wojciech] (http://wojtassf.github.io/wojciechwolak/)
 1. Wołejko, Alan
 1. Wygonowski, Maciej
 1. Wysokińska, Kamila
