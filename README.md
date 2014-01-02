@@ -100,7 +100,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Olobry, Konrad
 1. Pałkowska, Klaudia
 1. Piechna, Paulina
-1. Piechota, Natalia
+1. http://npiechota.github.io/project/
 1. Pilarczyk, Marcin
 1. Popko, Adrianna
 1. Popławska, Katarzyna
