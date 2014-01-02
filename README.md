@@ -106,7 +106,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Popławska, Katarzyna
 1. Posłuszny, Maciej
 1. Pośpiech, Przemysław
-1. Prabucki, Tomasz
+1. [Prabucki, Tomasz] (http://prabut.github.io/)
 1. Radski, Paweł
 1. Radzimińska, Martyna
 1. Rostek, Karolina
