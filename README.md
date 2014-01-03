@@ -118,7 +118,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Sobociński, Paweł
 1. Sochacki, Damian
 1. Soska, Kamil
-1. Stelmach, Krzysztof
+1. [Stelmach, Krzysztof](http://krzysiekes.github.io/Krzysiek/)
 1. [Stypa, Aneta] (http://aneta-7.github.io/zaliczenie/)
 1. Stępień, Maciej
 1. Stępka, Mateusz
