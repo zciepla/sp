@@ -39,7 +39,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Fafiński, Bartosz
 1. Felczak, Dominik
 1. [Filipowicz, Szymon](http://banan3k.github.io/zaliczenie/)
-1. Formela, Bartosz
+1. [Formela, Bartosz] (http://bformela.github.io/blog/)
 1. [Franciszczak, Dawid](http://dfranciszczak.github.io/zalicz/)
 1. Frąckiewicz, Bartosz
 1. Galicki, Paweł
