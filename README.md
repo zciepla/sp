@@ -39,7 +39,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Fafiński, Bartosz
 1. Felczak, Dominik
 1. [Filipowicz, Szymon](http://banan3k.github.io/zaliczenie/)
-1. [Formela, Bartosz] (http://bformela.github.io/blog/)
+1. [Formela, Bartosz](http://bformela.github.io/blog/)
 1. [Franciszczak, Dawid](http://dfranciszczak.github.io/zalicz/)
 1. Frąckiewicz, Bartosz
 1. Galicki, Paweł
@@ -75,7 +75,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Kowalewski, Krzysztof
 1. Kowalewski, Michał
 1. Kowalewski, Tomasz
-1. Kozłowski, Damian
+1. [Kozłowski, Damian](http://dkozlowski.github.io/BLOG)
 1. Krakowiak, Michał
 1. Kramek, Bartłomiej
 1. Krueger, Diana
