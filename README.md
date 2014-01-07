@@ -110,7 +110,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Radski, Paweł
 1. Radzimińska, Martyna
 1. Rostek, Karolina
-1. Rybicki, Paweł
+1. [Rybicki, Paweł](http://saovin.github.io/blog)
 1. [Rzepecki, Wojciech](http://wojtass.github.io/)
 1. Rzeppa, Sławomir
 1. [Sadowski, Patryk](http://psadowski.github.io/blog/)
