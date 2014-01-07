@@ -128,7 +128,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Szejnoch, Michał
 1. Szewczyk, Krystian
 1. Szmaja, Bartosz
-1. Tarnowski, Łukasz
+1. [Tarnowski, Łukasz](http://ltarnowski1.github.io/Zaliczenie/)
 1. Tkaczyk, Michał
 1. Trzebuchowski, Kacper
 1. [Tyczyński, Michał](http://mtyczynski.github.io/Index/)
