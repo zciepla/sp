@@ -154,6 +154,6 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Zmuda, Daniel
 1. [Zweigert, Mateusz](http://mzweigert.github.io)
 1. Świder, Karolina
-1. Świątek, Jan
+1. [Świątek, Jan] (https://github.com/dzbanek2)
 1. [Żerański, Piotr](http://pzeranski.github.io/zaliczenie/)
 1. [Żuk, Adam](http://a-zuk.github.io/blog/)
