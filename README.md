@@ -98,7 +98,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Nykiel, Karol
 1. Okoniewski, Daniel
 1. Olobry, Konrad
-1. Pałkowska, Klaudia
+1. [Pałkowska, Klaudia](http://kpalkowska.github.io/)
 1. Piechna, Paulina
 1. [Piechota, Natalia](http://npiechota.github.io/project)
 1. Pilarczyk, Marcin
