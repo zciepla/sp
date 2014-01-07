@@ -54,7 +54,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Gross, Bartosz
 1. Górczak, Krzysztof
 1. Górski, Michał
-1. Górtowski, Robert
+1. [Górtowski, Robert](http://jabycplacek.github.io/Blog/)
 1. Hallman, Marcin
 1. Hrycikowski, Rafał
 1. Ignaczak, Maciej
