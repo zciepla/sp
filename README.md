@@ -140,7 +140,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Wilamowski, Paweł
 1. Wilkirska, Maria
 1. Witkowska, Ewa
-1. Wittstock, Szymon
+1. [Wittstock, Szymon](http://swittstock.github.io/koziol)
 1. [Wiśniewski, Bartosz](http://bwisniewski.github.io/zaliczenie/)
 1. [Wolak, Wojciech] (http://wojtassf.github.io/wojciechwolak/)
 1. Wołejko, Alan
