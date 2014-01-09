@@ -83,7 +83,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Kumorczyk, Krzysztof
 1. Kuśmierczuk, Patryk
 1. Kądziela, Michał
-1. Liwiński, Kamil
+1. [Liwiński, Kamil] (http://panufo.github.io/)
 1. Lopeke, Michael
 1. Malinowski, Piotr
 1. Marcinkiewicz, Oskar
