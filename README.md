@@ -88,7 +88,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Malinowski, Piotr
 1. Marcinkiewicz, Oskar
 1. Masowa, Marcin
-1. Matyjas, Sebastian
+1. http://reamider.github.io/
 1. [Mazurek, Paulina] (http://paumaz.github.io/)
 1. [Mielewczyk, Łukasz](http://romety2.github.io/zaliczonko/)
 1. Mróz, Franciszek
