@@ -123,7 +123,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Stępień, Maciej
 1. Stępka, Mateusz
 1. Szafrański, Piotr
-1. Szczutkowski, Dawid
+1. [Szczutkowski, Dawid] (http://dszczutkowski.github.io/BLOG/)
 1. Szczypiorowski, Kamil
 1. Szejnoch, Michał
 1. Szewczyk, Krystian
