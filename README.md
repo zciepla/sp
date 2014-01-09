@@ -70,7 +70,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Kiliński, Kornel
 1. [Klemarczyk, Maciej Paweł](http://mklemarczyk.github.io/)
 1. Koliński, Artur
-1. Korol, Wiktor
+1. [Korol, Wiktor] (http://wkorol.github.io/)
 1. Kort, Michał
 1. Kowalewski, Krzysztof
 1. Kowalewski, Michał
