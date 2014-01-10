@@ -59,7 +59,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Hrycikowski, Rafał
 1. Ignaczak, Maciej
 1. Jaszczak, Mariusz
-1. Kacała, Michał
+1. [Kacała, Michał](http://mkacala6.github.io/Michal-Kacala/)
 1. Kaleta, Emilia
 1. Kamiński, Piotr
 1. [Kamola, Filip](http://fkamola.github.io/Blog/)
