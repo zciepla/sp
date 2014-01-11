@@ -125,7 +125,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Szafrański, Piotr
 1. [Szczutkowski, Dawid] (http://dszczutkowski.github.io/BLOG/)
 1. Szczypiorowski, Kamil
-1. Szejnoch, Michał
+1. [Szejnoch, Michał] (http://fochu.github.io/blog/)
 1. Szewczyk, Krystian
 1. Szmaja, Bartosz
 1. [Tarnowski, Łukasz](http://ltarnowski1.github.io/Zaliczenie/)
