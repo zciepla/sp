@@ -134,7 +134,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Tyczyński, Michał](http://mtyczynski.github.io/Index/)
 1. [Tymiński, Karol] (http://ktyminski.github.io/)
 1. Uściłowicz, Sebastian
-1. Walczak, Marta
+1. [Walczak, Marta](http://mawala.github.io/)
 1. Walendzewicz, Daniel
 1. [Wiczling, Karol](http://kwiczling.github.io/Repo1/)
 1. Wilamowski, Paweł
