@@ -21,7 +21,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Bruchwalska, Aleksandra](http://abruchwalska.github.io/zaliczenie/)
 1. Burkiewicz, Tomasz
 1. [Buszman, Dariusz](http://dbuszman.github.io/). [Wydarzenia](https://github.com/dbuszman/Skrypt).
-1. [Błachuciak, Amelia](http://erathiel.github.io/)
+1. Błachuciak, Amelia
 1. [Cendrowski, Paweł](http://pcendrowski.github.io/Blog-SP/)
 1. Chlebba, Adam
 1. Ciepła, Zuzanna
@@ -55,7 +55,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Górczak, Krzysztof
 1. Górski, Michał
 1. [Górtowski, Robert](http://jabycplacek.github.io/Blog/)
-1. [Hallman, Marcin](http://tearnwair.github.io/)
+1. Hallman, Marcin
 1. Hrycikowski, Rafał
 1. Ignaczak, Maciej
 1. Jaszczak, Mariusz
@@ -65,7 +65,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Kamola, Filip](http://fkamola.github.io/Blog/)
 1. Karpisz, Piotr
 1. Kassjański, Michał
-1. [Kasztelan, Damian](http://damian11.github.io/)
+1. Kasztelan, Damian
 1. Kaszubowski, Adam
 1. Kiliński, Kornel
 1. [Klemarczyk, Maciej Paweł](http://mklemarczyk.github.io/)
@@ -77,7 +77,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Kowalewski, Tomasz
 1. [Kozłowski, Damian](http://dkozlowski.github.io/BLOG)
 1. Krakowiak, Michał
-1. Kramek, Bartłomiej
+1. [Kramek, Bartłomiej] (http://bartlomiejkr.github.io/Bblog/)
 1. Krueger, Diana
 1. Kuleszko, Michał
 1. [Kumorczyk, Krzysztof](http://kkumorczyk.github.io/)
@@ -112,7 +112,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Rostek, Karolina
 1. [Rybicki, Paweł](http://saovin.github.io/blog)
 1. [Rzepecki, Wojciech](http://wojtass.github.io/)
-1. [Rzeppa, Sławomir](http://srzeppa.github.io/)
+1. Rzeppa, Sławomir
 1. [Sadowski, Patryk](http://psadowski.github.io/blog/)
 1. Sienkiewicz, Rafał
 1. [Sobociński, Paweł](http://redellex.github.io/First/)
@@ -135,7 +135,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Tymiński, Karol](http://ktyminski.github.io/). [Radio](https://github.com/ktyminski/Radio-skrypt).
 1. [Uściłowicz, Sebastian] (http://suscilowicz.github.io)
 1. [Walczak, Marta](http://mawala.github.io/)
-1. [Walendzewicz, Daniel](http://denny93.github.io/blog/)
+1. Walendzewicz, Daniel
 1. [Wiczling, Karol](http://kwiczling.github.io/Repo1/)
 1. [Wilamowski, Paweł](http://pwilamowski.github.io/)
 1. Wilkirska, Maria
@@ -146,7 +146,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Wołejko, Alan
 1. Wygonowski, Maciej
 1. Wysokińska, Kamila
-1. [Wójcicka, Zuzanna](http://zwojcicka.github.io/)
+1. Wójcicka, Zuzanna
 1. [Wąsowski, Jakub](http://jwasowski.github.io/Zaliczenie)
 1. [Zawistowski, Łukasz](http://lzawistowski.github.io/Repo/)
 1. Zawodny, Szymon
