@@ -15,7 +15,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Bianek, Kacper
 1. Biegała, Jakub
 1. Biewska, Aldona
-1. Boyke, Gracjan
+1. [Boyke, Gracjan] (http://gboyke12.github.io/Zaliczenie/)
 1. [Breza, Mateusz](http://mbreza.github.io/rep1/)
 1. Bronk, Seweryn
 1. [Bruchwalska, Aleksandra](http://abruchwalska.github.io/zaliczenie/)
