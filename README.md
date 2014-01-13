@@ -97,7 +97,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Niewczas, Katarzyna
 1. Nykiel, Karol
 1. Okoniewski, Daniel
-1. Olobry, Konrad
+1. [Olobry, Konrad](http://kombi92.github.io/)
 1. [Pałkowska, Klaudia](http://kpalkowska.github.io/)
 1. Piechna, Paulina
 1. [Piechota, Natalia](http://npiechota.github.io/project)
