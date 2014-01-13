@@ -48,7 +48,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Gańcza, Melchior]((http://melgan.github.io))
 1. Gdaniec, Mateusz
 1. Gnes, Michał
-1. Godziuk, Jacek
+1. [Godziuk, Jacek] (http://jgodziuk.github.io/) 
 1. [Gonera, Grzegorz](http://armacoder.github.io/)
 1. Gosiewski, Adrian
 1. Gross, Bartosz
