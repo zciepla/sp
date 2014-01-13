@@ -13,7 +13,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Ananchuk, Yauheni](http://zhenya1096.github.io/zaliczenie/)
 1. [Beiger, Monika](http://mbeiger.github.io/)
 1. Bianek, Kacper
-1. Biegała, Jakub
+1. [Biegała, Jakub](http://jbiegala.github.io/Blog/)
 1. Biewska, Aldona
 1. Boyke, Gracjan
 1. [Breza, Mateusz](http://mbreza.github.io/rep1/)
