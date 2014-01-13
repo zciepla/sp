@@ -71,7 +71,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Klemarczyk, Maciej Paweł](http://mklemarczyk.github.io/)
 1. [Koliński, Artur](http://arturkolinski.github.io/blog/)
 1. [Korol, Wiktor] (http://wkorol.github.io/)
-1. Kort, Michał
+1. [Kort, Michał] (http://mkort.github.io/8tobegreat/)
 1. Kowalewski, Krzysztof
 1. Kowalewski, Michał
 1. Kowalewski, Tomasz
