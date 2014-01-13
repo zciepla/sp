@@ -79,7 +79,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Krakowiak, Michał
 1. Kramek, Bartłomiej
 1. Krueger, Diana
-1. Kuleszko, Michał
+1. [Kuleszko, Michał](http://kuleek.github.io/Blog)
 1. [Kumorczyk, Krzysztof](http://kkumorczyk.github.io/)
 1. Kuśmierczuk, Patryk
 1. Kądziela, Michał
