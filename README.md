@@ -31,7 +31,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Darznik, Dawid
 1. Daszkiewicz, Mateusz
 1. Dombrowski, Kamil
-1. Drewing, Maciej
+1. [Drewing, Maciej](http://niedwiediew.github.io/)
 1. [Drzewicka, Maja](http://majad.github.io/blog/)
 1. Dybała, Małgorzata
 1. [Działdowska, Kinga](http://kdzialdowska.github.io/blog/)
