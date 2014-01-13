@@ -152,7 +152,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Zawodny, Szymon
 1. [Zelek, Martin](http://martin123154.github.io/martin/)
 1. Zmuda, Daniel
-1. [Zweigert, Mateusz](http://mzweigert.github.io) 
+1. [Zweigert, Mateusz](http://mzweigert.github.io)
 1. Świder, Karolina
 1. [Świątek, Jan] (https://github.com/dzbanek2)
 1. [Żerański, Piotr](http://pzeranski.github.io/zaliczenie/)
