@@ -53,7 +53,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Gosiewski, Adrian
 1. Gross, Bartosz
 1. Górczak, Krzysztof
-1. Górski, Michał
+1. [Górski, Michał] (http://dajminazwe.github.io/)
 1. [Górtowski, Robert](http://jabycplacek.github.io/Blog/)
 1. Hallman, Marcin
 1. Hrycikowski, Rafał
