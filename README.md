@@ -137,7 +137,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Walczak, Marta](http://mawala.github.io/)
 1. Walendzewicz, Daniel
 1. [Wiczling, Karol](http://kwiczling.github.io/Repo1/)
-1. Wilamowski, Paweł
+1. [Wilamowski, Paweł](http://pwilamowski.github.io/)
 1. Wilkirska, Maria
 1. Witkowska, Ewa
 1. [Wittstock, Szymon](http://swittstock.github.io/koziol)
