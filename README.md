@@ -105,7 +105,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Popko, Adrianna
 1. Popławska, Katarzyna
 1. [Posłuszny, Maciej](http://spalonytoster.github.io/)
-1. Pośpiech, Przemysław
+1. [Pośpiech, Przemysław](http://rashhu.github.io/blog)
 1. [Prabucki, Tomasz] (http://prabut.github.io/)
 1. Radski, Paweł
 1. Radzimińska, Martyna
