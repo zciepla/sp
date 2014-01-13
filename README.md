@@ -69,7 +69,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Kaszubowski, Adam
 1. Kiliński, Kornel
 1. [Klemarczyk, Maciej Paweł](http://mklemarczyk.github.io/)
-1. Koliński, Artur
+1. [Koliński, Artur](http://arturkolinski.github.io/blog/)
 1. [Korol, Wiktor] (http://wkorol.github.io/)
 1. Kort, Michał
 1. Kowalewski, Krzysztof
@@ -112,7 +112,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Rostek, Karolina
 1. [Rybicki, Paweł](http://saovin.github.io/blog)
 1. [Rzepecki, Wojciech](http://wojtass.github.io/)
-1. [Rzeppa, Sławomir](http://srzeppa.github.io/)
+1. Rzeppa, Sławomir
 1. [Sadowski, Patryk](http://psadowski.github.io/blog/)
 1. Sienkiewicz, Rafał
 1. [Sobociński, Paweł](http://redellex.github.io/First/)
