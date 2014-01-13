@@ -117,7 +117,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Sienkiewicz, Rafał
 1. [Sobociński, Paweł](http://redellex.github.io/First/)
 1. Sochacki, Damian
-1. Soska, Kamil
+1. [Soska, Kamil](http://ksoska.github.io)
 1. [Stelmach, Krzysztof](http://krzysiekes.github.io/Krzysiek/)
 1. [Stypa, Aneta] (http://aneta-7.github.io/zaliczenie/)
 1. Stępień, Maciej
