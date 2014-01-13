@@ -56,7 +56,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Górski, Michał
 1. [Górtowski, Robert](http://jabycplacek.github.io/Blog/)
 1. [Hallman, Marcin](http://tearnwair.github.io/)
-1. Hrycikowski, Rafał
+1. [Hrycikowski, Rafał](http://kreteda.github.io/zaliczenie2/)
 1. Ignaczak, Maciej
 1. Jaszczak, Mariusz
 1. [Kacała, Michał](http://mkacala6.github.io/Michal-Kacala/)
