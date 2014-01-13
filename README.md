@@ -45,7 +45,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Galicki, Paweł
 1. Gazarkiewicz, Robert
 1. [Gałaszewska, Martyna](http://mgalaszewska.github.io/zaliczenie/)
-1. [Gańcza, Melchior]((http://melgan.github.io))
+1. [Gańcza, Melchior]((http://melgan.github.io/))
 1. Gdaniec, Mateusz
 1. Gnes, Michał
 1. Godziuk, Jacek
