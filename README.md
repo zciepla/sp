@@ -61,7 +61,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Jaszczak, Mariusz
 1. [Kacała, Michał](http://mkacala6.github.io/Michal-Kacala/)
 1. Kaleta, Emilia
-1. Kamiński, Piotr
+1. [Kamiński, Piotr](http://szokowirowka.github.io/Zaliczenie/)
 1. [Kamola, Filip](http://fkamola.github.io/Blog/)
 1. Karpisz, Piotr
 1. Kassjański, Michał
