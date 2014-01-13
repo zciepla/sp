@@ -27,7 +27,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Ciepła, Zuzanna
 1. [Ciesielski, Mateusz](http://m-ciesielski.github.io/blog/)
 1. Cymerys, Marta
-1. Czekanowski, Bartosz
+1. [Czekanowski, Bartosz](http://raverok.github.io/Blog)
 1. Darznik, Dawid
 1. Daszkiewicz, Mateusz
 1. Dombrowski, Kamil
