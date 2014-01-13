@@ -132,7 +132,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Tkaczyk, Michał
 1. Trzebuchowski, Kacper
 1. [Tyczyński, Michał](http://mtyczynski.github.io/Index/)
-1. [Tymiński, Karol] (http://ktyminski.github.io/)
+1. [Tymiński, Karol](http://ktyminski.github.io/). [Radio](https://github.com/ktyminski/Radio-skrypt).
 1. [Uściłowicz, Sebastian] (http://suscilowicz.github.io)
 1. [Walczak, Marta](http://mawala.github.io/)
 1. Walendzewicz, Daniel
