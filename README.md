@@ -11,7 +11,7 @@ Zaczynamy od sforkowania tego repozytorium.
 
 1. [Bzyl, Włodzimierz](http://wbzyl.github.io/)
 1. [Ananchuk, Yauheni](http://zhenya1096.github.io/zaliczenie/)
-1. [Beiger, Monika](http://mbeiger.github.io/zaliczenie/)
+1. [Beiger, Monika](http://mbeiger.github.io/)
 1. Bianek, Kacper
 1. Biegała, Jakub
 1. Biewska, Aldona
