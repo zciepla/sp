@@ -103,7 +103,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Piechota, Natalia](http://npiechota.github.io/project)
 1. Pilarczyk, Marcin
 1. Popko, Adrianna
-1. Popławska, Katarzyna
+1. [Popławska, Katarzyna](http://kpoplawska.github.io/)
 1. [Posłuszny, Maciej](http://spalonytoster.github.io/)
 1. Pośpiech, Przemysław
 1. [Prabucki, Tomasz] (http://prabut.github.io/)
