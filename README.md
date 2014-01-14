@@ -64,7 +64,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Kamiński, Piotr](http://szokowirowka.github.io/Zaliczenie/)
 1. [Kamola, Filip](http://fkamola.github.io/Blog/)
 1. Karpisz, Piotr
-1. Kassjański, Michał
+1. [Kassjański, Michał](http://mkassjanski.github.io/blog/)
 1. Kasztelan, Damian
 1. Kaszubowski, Adam
 1. Kiliński, Kornel
