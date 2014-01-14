@@ -95,7 +95,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Nadolny, Michał
 1. Ney, Daniel
 1. Niewczas, Katarzyna
-1. Nykiel, Karol
+1. [Nykiel, Karol](knykiel.github.io)
 1. Okoniewski, Daniel
 1. [Olobry, Konrad](http://kombi92.github.io/)
 1. [Pałkowska, Klaudia](http://kpalkowska.github.io/)
