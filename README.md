@@ -51,7 +51,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Godziuk, Jacek] (http://jgodziuk.github.io/) 
 1. [Gonera, Grzegorz](http://armacoder.github.io/)
 1. Gosiewski, Adrian
-1. Gross, Bartosz
+1. [Gross, Bartosz]  (http://grossb.github.io/Strona/)
 1. Górczak, Krzysztof
 1. [Górski, Michał] (http://dajminazwe.github.io/)
 1. [Górtowski, Robert](http://jabycplacek.github.io/Blog/)
