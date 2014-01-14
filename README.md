@@ -55,7 +55,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Górczak, Krzysztof
 1. [Górski, Michał] (http://dajminazwe.github.io/)
 1. [Górtowski, Robert](http://jabycplacek.github.io/Blog/)
-1. Hallman, Marcin
+1. [Hallman, Marcin](http://tearnwair.github.io/)
 1. Hrycikowski, Rafał
 1. Ignaczak, Maciej
 1. [Jaszczak, Mariusz](http://mjaszczak.github.io/Blog/)
