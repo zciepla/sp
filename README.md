@@ -122,7 +122,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Stypa, Aneta] (http://aneta-7.github.io/zaliczenie/)
 1. Stępień, Maciej
 1. Stępka, Mateusz
-1. Szafrański, Piotr
+1. [Szafrański, Piotr] (http://pszafranski.github.io/)
 1. [Szczutkowski, Dawid] (http://dszczutkowski.github.io/BLOG/)
 1. Szczypiorowski, Kamil
 1. [Szejnoch, Michał] (http://fochu.github.io/blog/)
