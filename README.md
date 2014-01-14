@@ -151,7 +151,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Zawistowski, Łukasz](http://lzawistowski.github.io/Repo/)
 1. [Zawodny, Szymon](http:/szyzaw.github.io/blog/)
 1. [Zelek, Martin](http://martin123154.github.io/martin/)
-1. Zmuda, Daniel
+1. Żmuda, Daniel
 1. [Zweigert, Mateusz](http://mzweigert.github.io)
 1. Świder, Karolina
 1. [Świątek, Jan] (https://github.com/dzbanek2)
