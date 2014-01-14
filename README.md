@@ -86,7 +86,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Liwiński, Kamil] (http://panufo.github.io/)
 1. Lopeke, Michael
 1. Malinowski, Piotr
-1. Marcinkiewicz, Oskar
+1. [Marcinkiewicz, Oskar](http://boskioski.github.io/Blog)
 1. Masowa, Marcin
 1. [Matyjas, Sebastian] (http://reamider.github.io/)
 1. [Mazurek, Paulina] (http://paumaz.github.io/)
