@@ -30,7 +30,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Czekanowski, Bartosz](http://raverok.github.io/Blog)
 1. [Darznik, Dawid](http://Dawid93.github.io)
 1. Daszkiewicz, Mateusz
-1. Dombrowski, Kamil
+1. [Dombrowski, Kamil](http://kdombrowski.github.io/blog)
 1. [Drewing, Maciej](http://niedwiediew.github.io/)
 1. [Drzewicka, Maja](http://majad.github.io/blog/)
 1. Dybała, Małgorzata
