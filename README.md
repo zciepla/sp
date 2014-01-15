@@ -28,7 +28,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Ciesielski, Mateusz](http://m-ciesielski.github.io/blog/)
 1. Cymerys, Marta
 1. [Czekanowski, Bartosz](http://raverok.github.io/Blog)
-1. Darznik, Dawid
+1. [Darznik, Dawid](http://Dawid93.github.io)
 1. Daszkiewicz, Mateusz
 1. Dombrowski, Kamil
 1. [Drewing, Maciej](http://niedwiediew.github.io/)
