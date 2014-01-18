@@ -23,7 +23,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Buszman, Dariusz](http://dbuszman.github.io/). [Wydarzenia](https://github.com/dbuszman/Skrypt).
 1. Błachuciak, Amelia
 1. [Cendrowski, Paweł](http://pcendrowski.github.io/Blog-SP/)
-1. Chlebba, Adam
+1. [Chlebba, Adam] (http://achlebba.github.io/)
 1. [Ciepła, Zuzanna] (http://zciepla.github.io/Zaliczenie/)
 1. [Ciesielski, Mateusz](http://m-ciesielski.github.io/blog/)
 1. Cymerys, Marta
