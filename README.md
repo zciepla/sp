@@ -83,7 +83,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Kumorczyk, Krzysztof](http://kkumorczyk.github.io/)
 1. Kuśmierczuk, Patryk
 1. Kądziela, Michał
-1. [Liwiński, Kamil] (http://panufo.github.io/) [Generator haseł] (https://github.com/panUFO/SP/blob/master/skrypt_hasla.md)
+1. [Liwiński, Kamil](http://panufo.github.io/). [Generator haseł](https://github.com/panUFO/SP/blob/master/skrypt_hasla.md)
 1. Lopeke, Michael
 1. Malinowski, Piotr
 1. [Marcinkiewicz, Oskar](http://boskioski.github.io/Blog)
@@ -106,7 +106,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Popławska, Katarzyna](http://kpoplawska.github.io/)
 1. [Posłuszny, Maciej](http://spalonytoster.github.io/)
 1. [Pośpiech, Przemysław](http://rashhu.github.io/blog)
-1. [Prabucki, Tomasz] (http://prabut.github.io/) [Rozpakowacz](https://github.com/prabut/Skrypty/blob/master/rozpakowacz)
+1. [Prabucki, Tomasz] (http://prabut.github.io/). [Rozpakowacz](https://github.com/prabut/Skrypty/blob/master/rozpakowacz)
 1. Radski, Paweł
 1. Radzimińska, Martyna
 1. Rostek, Karolina
