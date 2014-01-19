@@ -92,7 +92,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Mazurek, Paulina] (http://paumaz.github.io/)
 1. [Mielewczyk, Łukasz](http://romety2.github.io/zaliczonko/)
 1. Mróz, Franciszek
-1. Nadolny, Michał
+1. [Nadolny, Michał] (http://joliment.github.io/)
 1. Ney, Daniel
 1. [Niewczas, Katarzyna](http://kniewczas.github.io/kniewczas/)
 1. [Nykiel, Karol](knykiel.github.io)
