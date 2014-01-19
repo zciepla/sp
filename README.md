@@ -133,7 +133,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Trzebuchowski, Kacper
 1. [Tyczyński, Michał](http://mtyczynski.github.io/Index/)
 1. [Tymiński, Karol](http://ktyminski.github.io/). [Radio](https://github.com/ktyminski/Radio-skrypt).
-1. [Uściłowicz, Sebastian] (http://suscilowicz.github.io)
+1. [Uściłowicz, Sebastian](http://suscilowicz.github.io) [Podział pliku na części](https://github.com/suscilowicz/SP/blob/master/skrypt.sh)
 1. [Walczak, Marta](http://mawala.github.io/)
 1. [Walendzewicz, Daniel] (http://danny93.github.io/blog/)
 1. [Wiczling, Karol](http://kwiczling.github.io/Repo1/)
