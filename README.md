@@ -48,7 +48,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Gańcza, Melchior](http://melgan.github.io/)
 1. Gdaniec, Mateusz
 1. Gnes, Michał
-1. [Godziuk, Jacek] (http://jgodziuk.github.io/) 
+1. [Godziuk, Jacek] (http://jgodziuk.github.io/)
 1. [Gonera, Grzegorz](http://armacoder.github.io/)
 1. Gosiewski, Adrian
 1. [Gross, Bartosz]  (http://grossb.github.io/Strona/)
@@ -125,16 +125,16 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Szafrański, Piotr] (http://pszafranski.github.io/)
 1. [Szczutkowski, Dawid] (http://dszczutkowski.github.io/BLOG/)
 1. Szczypiorowski, Kamil
-1. [Szejnoch, Michał] (http://fochu.github.io/blog/)
-1. [Szewczyk, Krystian] (http://kszewczyk1.github.io/blog/)
+1. [Szejnoch, Michał](http://fochu.github.io/blog/)
+1. [Szewczyk, Krystian](http://kszewczyk1.github.io/blog/)
 1. Szmaja, Bartosz
 1. [Tarnowski, Łukasz](http://ltarnowski1.github.io/Zaliczenie/)
 1. [Tkaczyk, Michał](http://emkate.github.io/)
 1. Trzebuchowski, Kacper
-1. [Tyczyński, Michał](http://mtyczynski.github.io/Index/)
-1. [Tymiński, Karol](http://ktyminski.github.io/). [Radio](https://github.com/ktyminski/Radio-skrypt).
-1. [Uściłowicz, Sebastian] (http://suscilowicz.github.io)
-1. [Walczak, Marta](http://mawala.github.io/). [Ile dni do Świąt](https://github.com/mawala/Skrypt).
+1. [Tyczyński, Michał](http://mtyczynski.github.io/Index/).
+1. [Tymiński, Karol](http://ktyminski.github.io/). [Radio](https://github.com/ktyminski/Radio-skrypt)
+1. [Uściłowicz, Sebastian](http://suscilowicz.github.io). [Podział pliku na części](https://github.com/suscilowicz/SP/blob/master/skrypt.sh)
+1. [Walczak, Marta](http://mawala.github.io/). [Ile dni do Świąt](https://github.com/mawala/Skrypt)
 1. [Walendzewicz, Daniel] (http://danny93.github.io/blog/)
 1. [Wiczling, Karol](http://kwiczling.github.io/Repo1/)
 1. [Wilamowski, Paweł](http://pwilamowski.github.io/)
