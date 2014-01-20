@@ -74,7 +74,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Kort, Michał] (http://mkort.github.io/8tobegreat/)
 1. Kowalewski, Krzysztof
 1. Kowalewski, Michał
-1. Kowalewski, Tomasz
+1. [Kowalewski, Tomasz](http://jaunas.github.io/)
 1. [Kozłowski, Damian](http://dkozlowski.github.io/BLOG)
 1. Krakowiak, Michał
 1. [Kramek, Bartłomiej] (http://bartlomiejkr.github.io/Bblog/)
