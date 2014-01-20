@@ -96,7 +96,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Ney, Daniel
 1. [Niewczas, Katarzyna](http://kniewczas.github.io/kniewczas/)
 1. [Nykiel, Karol](knykiel.github.io)
-1. Okoniewski, Daniel
+1. [Okoniewski, Daniel](http://okoniewskid.github.io/srod_prog/)
 1. [Olobry, Konrad](http://kombi92.github.io/)
 1. [Pałkowska, Klaudia](http://kpalkowska.github.io/)
 1. Piechna, Paulina
