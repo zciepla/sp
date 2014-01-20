@@ -21,7 +21,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Bruchwalska, Aleksandra](http://abruchwalska.github.io/zaliczenie/)
 1. [Burkiewicz, Tomasz] (http://tomcio62.github.io/tomek123.github.io/)
 1. [Buszman, Dariusz](http://dbuszman.github.io/). [Wydarzenia](https://github.com/dbuszman/Skrypt).
-1. Błachuciak, Amelia
+1. [Błachuciak, Amelia](http://erathiel.github.io/).
 1. [Cendrowski, Paweł](http://pcendrowski.github.io/Blog-SP/)
 1. [Chlebba, Adam] (http://achlebba.github.io/)
 1. [Ciepła, Zuzanna] (http://zciepla.github.io/Zaliczenie/)
