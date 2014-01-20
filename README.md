@@ -143,7 +143,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Wittstock, Szymon](http://swittstock.github.io/koziol)
 1. [Wiśniewski, Bartosz](http://bwisniewski.github.io/zaliczenie/)
 1. [Wolak, Wojciech] (http://wojtassf.github.io/wojciechwolak/)
-1. Wołejko, Alan
+1. [Wołejko, Alan] (http://alwox.github.io/)
 1. Wygonowski, Maciej
 1. Wysokińska, Kamila
 1. [Wójcicka, Zuzanna] (http://zwojcicka.github.io/)
