@@ -107,7 +107,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Posłuszny, Maciej](http://spalonytoster.github.io/)
 1. [Pośpiech, Przemysław](http://rashhu.github.io/blog)
 1. [Prabucki, Tomasz] (http://prabut.github.io/). [Rozpakowacz](https://github.com/prabut/Skrypty/blob/master/rozpakowacz)
-1. Radski, Paweł
+1. [Radski, Paweł](http://zwiedzacz.github.io/Blog_zal_z_SP)
 1. Radzimińska, Martyna
 1. Rostek, Karolina
 1. [Rybicki, Paweł](http://saovin.github.io/blog)
