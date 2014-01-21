@@ -65,7 +65,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. [Kamola, Filip](http://fkamola.github.io/Blog/)
 1. Karpisz, Piotr
 1. [Kassjański, Michał](http://mkassjanski.github.io/blog/)
-1. Kasztelan, Damian
+1. [Kasztelan, Damian](http://damian11.github.io/)
 1. Kaszubowski, Adam
 1. Kiliński, Kornel
 1. [Klemarczyk, Maciej Paweł](http://mklemarczyk.github.io/)
