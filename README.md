@@ -9,7 +9,6 @@ Jak to zrobić zostało opisane w [Using Pull Requests](https://help.github.com
 (metoda Fork & Pull) i w [Creating a pull request](https://help.github.com/articles/creating-a-pull-request).
 Zaczynamy od sforkowania tego repozytorium.
 
-1. [Bzyl, Włodzimierz](http://wbzyl.github.io/)
 1. [Ananchuk, Yauheni](http://zhenya1096.github.io/zaliczenie/)
 1. [Beiger, Monika](http://mbeiger.github.io/)
 1. Bianek, Kacper
